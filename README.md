@@ -1,4 +1,4 @@
-# My ML Workshops 🚀
+# RL Workshops 🚀
 
 Personal workshops on **Reinforcement Learning (RL)**, Convolutional Neural Networks (CNN), and computational intelligence, developed through coursework at **LUT** and **AIMS**
  
