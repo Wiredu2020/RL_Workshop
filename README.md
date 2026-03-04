@@ -1,10 +1,10 @@
-# My ML Workshops 🚀
+# RL Workshops 🚀
 
 Personal workshops on **Reinforcement Learning (RL)**, Convolutional Neural Networks (CNN), and computational intelligence, developed through coursework at **LUT** and **AIMS**
  
 ## Overview
 
-This repository contains notebooks where foundational and advanced concepts in machine learning were explored and implemented, with particular emphasis placed on **Reinforcement Learning** and intelligent agent training methodologies.
+This repository contains notebooks where foundational and advanced concepts in RF were explored and implemented, with particular emphasis placed on intelligent agent training methodologies.
 
 ---
 
